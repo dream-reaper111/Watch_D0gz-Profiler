@@ -19,6 +19,11 @@ The original goal was to experiment with basic information gathering, username c
 
 This repository is being preserved as a piece of old code, but it may eventually be rebuilt into a cleaner and more modern OSINT framework.
 
+<img width="498" height="498" alt="wrench-watch-dogs" src="https://github.com/user-attachments/assets/7e1d1c9b-d04c-4ce3-9b4e-e5f85f8a1997" />
+<img width="244" height="244" alt="watch-dogs-mask" src="https://github.com/user-attachments/assets/b47c2b6c-428d-4f4b-974b-98ed8ba60b91" />
+
+
+
 ```text
  __        __    _       _       ____   ___
  \ \      / /_ _| |_ ___| |__   |  _ \ / _ \  __ _ ____
